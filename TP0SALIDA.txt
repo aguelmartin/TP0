@@ -1,0 +1,7 @@
+Microsoft Windows [Versión 6.1.7600]
+Copyright (c) 2009 Microsoft Corporation. Reservados todos los derechos.
+
+C:\Users\Aguel\ALGORITMOS\TP00>TP0
+Hello world!
+
+C:\Users\Aguel\ALGORITMOS\TP00>
